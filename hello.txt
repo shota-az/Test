@@ -5,3 +5,5 @@ Hello, world.
 Bonjour, monde.
 
 Hallo, welt.
+
+こんにちは、世界。
